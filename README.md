@@ -14,7 +14,7 @@ I have a lot of exposure when it comes to backend development ranging from web-d
 
 [![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=FEC20C)](https://github.com/nikhil631)
 [![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=23F7DF1E)](https://github.com/nikhil631)
-[![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=9A4A94)](https://github.com/nikhil631)
+[![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=java&logoColor=9A4A94)](https://github.com/nikhil631)
 [![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://github.com/nikhil631)
 [![BASH](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF)](https://github.com/nikhil631)
 
