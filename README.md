@@ -1,6 +1,6 @@
 <h2 align="center">Hello There :wave: <br/> Welcome to my GitHub</h2> 
 <p align="center">
-  <b><i> I'm Nikhil, and I like to define myself as a Simple Computer Enthusiast <br/> I am always up for learning new technologies especially about Backend </i></b>
+  <b><i> I'm Nikhil, and I like to define myself as a Computer Enthusiast <br/> I am always up for learning new technologies especially about Backend </i></b>
   <br/><br/>
   <a href="https://www.linkedin.com/in/nikhil-kumar-tomar">
         <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -8,7 +8,8 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-I have a lot of exposure when it comes to backend development ranging from web-development all the way to continuous deployment of projects, I haven't stopped here and have explored various other technologies as well. My biggest strength is designing the structure and working of an application and its components.      
+I am a dedicated Backend Developer with a robust background in computer science and a record for developing robust backends with focus on efficiency and scalability.
+
 
 ### Programming Languages :man_technologist:
 
